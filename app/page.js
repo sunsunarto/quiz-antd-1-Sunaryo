@@ -19,7 +19,7 @@ export default function Home() {
         <Content style={{ background: 'white' }}>
           <Title>Welcome to my website</Title>
           <div className="contentBody flex gap-4 flex-col">
-            <Text>hello i from SMK tri ratna mijor in computer engineering</Text>
+            <Text>hello i from SMK tri ratna major in computer engineering</Text>
             <Button color="cyan" variant="solid">Get Started</Button>
           </div>
         </Content>
