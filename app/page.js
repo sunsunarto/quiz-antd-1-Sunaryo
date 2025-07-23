@@ -9,10 +9,10 @@ const { Header, Content, Footer } = Layout;
 
 export default function Home() {
   return (
-    <div className="mainCon">
+    <div className="mainCon p-4">
       <div className="header ">
         <Header style={{ background: 'gray' }} className="">
-          <Title>Header my website Sunaryo</Title>
+          <Title>web Sunaryo</Title>
         </Header>
       </div>
       <div className="content">
